@@ -1,0 +1,1 @@
+ffmpeg -i E:\h.mp4 -ss 00:01:23 -c copy -to 02:50:30 E:\h2.mp4
